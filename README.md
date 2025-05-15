@@ -21,9 +21,6 @@
 | Project | Description |
 |--------|-------------|
 | [AI Desk Assignment Engine](https://github.com/ashu-xdev/desk-assignment-ai) | Smart desk booking using FastAPI + VergeSense |
-| [Auction WebSocket Infra](https://github.com/ashu-xdev/auction-ws) | Real-time bidding system using AWS API Gateway + WebSocket |
-| [EKS Infra with Terraform](https://github.com/ashu-xdev/eks-terraform-infra) | Production-grade EKS + ALB + RDS setup using IaC |
-| [Google SSO for Admin Portal](https://github.com/ashu-xdev/google-sso-nextjs) | Secure org-wide Google login using Next.js and AWS Cognito |
 
 ---
 
