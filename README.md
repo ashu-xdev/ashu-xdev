@@ -10,7 +10,7 @@
 Experienced engineering executive with deep expertise in building **AI-powered platforms**, **cloud-native systems**, and **DevOps-first organizations**.
 
 - 🌱 Exploring: GenAI, Edge AI, DevSecOps, LLMOps
-- 🛠️ Tech Stack: Python, FastAPI, Kafka, MySQL, MongoDB, AWS, Docker, Kubernetes
+- 🛠️ Tech Stack: Node JS, Azure, Python, FastAPI, Kafka, MySQL, MongoDB, AWS, Docker, Kubernetes, Lambda
 - 📫 Connect: [LinkedIn](https://linkedin.com/in/ashutoshsaxena143) | [GitHub](https://github.com/ashu-xdev)
 
 ---
