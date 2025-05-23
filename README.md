@@ -15,14 +15,6 @@ Experienced engineering executive with deep expertise in building **AI-powered p
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [AI Desk Assignment Engine](https://github.com/ashu-xdev/desk-assignment-ai) | Smart desk booking using FastAPI + VergeSense |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:**  
