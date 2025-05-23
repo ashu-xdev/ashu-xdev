@@ -106,8 +106,7 @@ Reach out to me for support with:
 ---
 
 ## 📈 GitHub Stats
-
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu-xdev&show_icons=true&count_private=true&hide=issues)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-xdev&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=ashu-xdev&theme=radical)  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ashu-xdev&theme=darkhub&row=1&column=6)
